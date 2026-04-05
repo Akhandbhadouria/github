@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AkhandPratapSingh&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Akhandbhadouria&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Akhand Pratap Singh** — a passionate **Data Scientist & ML Engineer** who loves uncovering patterns in data and building models that make a real-world impact.
+Hey there! I'm **Akhand Bhadouria** — a passionate **Data Scientist & ML Engineer** who loves uncovering patterns in data and building models that make a real-world impact.
 
 - 🔭 Currently working on **Machine Learning & Deep Learning projects**
 - 🌱 Exploring **LLMs, Generative AI & MLOps**
@@ -66,14 +66,14 @@ Hey there! I'm **Akhand Pratap Singh** — a passionate **Data Scientist & ML En
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkhandPratapSingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhandPratapSingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhandbhadouria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhandbhadouria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AkhandPratapSingh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akhandbhadouria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -83,8 +83,8 @@ Hey there! I'm **Akhand Pratap Singh** — a passionate **Data Scientist & ML En
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=AkhandPratapSingh&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true)](https://github.com/AkhandPratapSingh/YOUR_PROJECT_1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=AkhandPratapSingh&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true)](https://github.com/AkhandPratapSingh/YOUR_PROJECT_2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Akhandbhadouria&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true)](https://github.com/Akhandbhadouria/YOUR_PROJECT_1)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Akhandbhadouria&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true)](https://github.com/Akhandbhadouria/YOUR_PROJECT_2)
 
 </div>
 
@@ -105,9 +105,9 @@ Hey there! I'm **Akhand Pratap Singh** — a passionate **Data Scientist & ML En
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AkhandPratapSingh-181717?style=for-the-badge&logo=github)](https://github.com/AkhandPratapSingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhandpratapsingh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akhandpratapsingh)
-[![Twitter](https://img.shields.io/badge/Twitter-@akhandpratap-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akhandpratap)
+[![GitHub](https://img.shields.io/badge/GitHub-Akhandbhadouria-181717?style=for-the-badge&logo=github)](https://github.com/Akhandbhadouria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhandbhadouria-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akhandbhadouria)
+[![Twitter](https://img.shields.io/badge/Twitter-@akhandbhadouria-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akhandbhadouria)
 [![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
